@@ -1,6 +1,6 @@
 <?php 
 
-$conexion= new mysqli("localhost", "root", "yaya321", "practica");
+$conexion= new mysqli("localhost", "root", "", "practica");
 
 
 
